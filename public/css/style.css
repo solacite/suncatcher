@@ -15,6 +15,7 @@
 
 html {
     font-size: clamp(12px, 1.2vw + 8px, 22px);
+    background-color: #000000;
 }
 
 html, body {
